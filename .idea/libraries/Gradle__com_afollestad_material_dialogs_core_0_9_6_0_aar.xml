@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:core:0.9.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf39c6ba9950de66977402f544d09a6a/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf39c6ba9950de66977402f544d09a6a/jetified-core-0.9.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf39c6ba9950de66977402f544d09a6a/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9889896475f55aff879aaebe8a612090/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9889896475f55aff879aaebe8a612090/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9889896475f55aff879aaebe8a612090/jetified-core-0.9.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/119b058f5b58c129f04962d8e1215a1a/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/119b058f5b58c129f04962d8e1215a1a/jetified-core-0.9.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/119b058f5b58c129f04962d8e1215a1a/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75503ecb17ee5188f440cd603b59407c/jetified-core-0.9.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75503ecb17ee5188f440cd603b59407c/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75503ecb17ee5188f440cd603b59407c/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e840ea7bddfdcb22c2cb24f3929ea978/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e840ea7bddfdcb22c2cb24f3929ea978/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e840ea7bddfdcb22c2cb24f3929ea978/jetified-core-0.9.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37c49fb8c132846669608ee3bc1beb61/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37c49fb8c132846669608ee3bc1beb61/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37c49fb8c132846669608ee3bc1beb61/jetified-core-0.9.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f79c46beda00af4a8da8af9f953505f1/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f79c46beda00af4a8da8af9f953505f1/jetified-core-0.9.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f79c46beda00af4a8da8af9f953505f1/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3ab6374a599b87049959141ee385842/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3ab6374a599b87049959141ee385842/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a3ab6374a599b87049959141ee385842/jetified-core-0.9.6.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.9.6.0/1f5fdc64937994aee6b42d7cb50657cb12629538/core-0.9.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.9.6.0/138d1054166753aa2b5306e5ae484d03e9974c81/core-0.9.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

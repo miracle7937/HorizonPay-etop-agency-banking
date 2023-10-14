@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.gbikna.agency",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 11056,
+      "versionName": "1.02.2023101411",
+      "outputFile": "Horizonpay_Demo_v1.02.2023101411.apk"
+    }
+  ]
+}
